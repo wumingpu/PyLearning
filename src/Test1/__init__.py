@@ -5,4 +5,4 @@ if name.endswith('tank'):
 elif name.endswith('xiao'):
     print ('Hello xiao')
 else:
-    print ('Hello Strange')
+    print ('Hello Strange111')
